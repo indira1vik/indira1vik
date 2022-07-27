@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Indirakanth V</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello 👋, I'm Indirakanth V</h1>
+<h3 align="center">A passionate frontend developer, UI/UX designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indira1vik&label=Profile%20views&color=0e75b6&style=flat" alt="indira1vik" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **machine learning projects.**
 
-- 👨‍💻 All of my projects are available at [https://indira1vik.github.io/NextGenIndira/site/](https://indira1vik.github.io/NextGenIndira/site/)
+- 👨‍💻 My portfolio :  [https://indira1vik.github.io/NextGenIndira/site/](https://indira1vik.github.io/NextGenIndira/site/)
 
 - 💬 Ask me about **front-end and UI/UX design**
 
