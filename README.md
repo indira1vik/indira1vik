@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **indiravik113@gmail.com**
 
-- ⚡ Fun fact **I'm fabulous.**
+- ⚡ Fun fact **I'm funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
