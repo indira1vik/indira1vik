@@ -9,11 +9,7 @@
 
 - 👨‍💻 My portfolio :  [https://indira1vik.github.io/NextGenIndira/site/](https://indira1vik.github.io/NextGenIndira/site/)
 
-- 💬 Ask me about **front-end and UI/UX design**
-
 - 📫 How to reach me **indiravik113@gmail.com**
-
-- ⚡ Fun fact **I'm funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
