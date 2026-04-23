@@ -9,7 +9,6 @@ Hello there, I'm Indirakanth! A Software engineer and Computer Science master's 
 * 🌍  I'm based in Tempe, Arizona
 * 🖥️  See my portfolio at [Website](http://indira1.tech)
 * ✉️  You can contact me at [indiravik113@gmail.com](mailto:indiravik113@gmail.com)
-* 💬  Ask me about Formula 1 Fan
 
 ### Socials
 
